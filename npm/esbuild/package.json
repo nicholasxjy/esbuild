@@ -11,5 +11,6 @@
   "bin": {
     "esbuild": "bin/esbuild"
   },
+  "optionalDependencies": {},
   "license": "MIT"
 }
